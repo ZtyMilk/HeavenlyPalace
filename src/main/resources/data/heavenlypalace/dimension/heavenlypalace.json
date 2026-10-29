@@ -1,0 +1,11 @@
+{
+  "type": "heavenlypalace:heavenlypalace_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "heavenlypalace:heavenlypalace",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "heavenlypalace:wonderland_sky"
+    }
+  }
+}

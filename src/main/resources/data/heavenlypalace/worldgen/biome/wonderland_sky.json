@@ -1,0 +1,15 @@
+{
+  "temperature": 0.5,
+  "downfall": 0,
+  "has_precipitation": true,
+  "effects": {
+    "water_color": 7560938,
+    "grass_color": 4633949,
+    "foliage_color": 4227624
+  },
+  "creature_spawn_probability": 0.2,
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": [],
+  "features": []
+}
